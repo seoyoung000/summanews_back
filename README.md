@@ -1,5 +1,4 @@
-# 동양미래대 2025 졸업작품 & 스마트ICT 경진대회 장려상 작품
-SummaNews Back-end
+#SummaNews Back-end
 
 ---
 
