@@ -27,4 +27,4 @@ SummaNews Back-end
 ---
 
 ## 🔗 관련 프로젝트
-- **Frontend**: [SummaNews-Frontend](https://github.com/seoyoung000/summanews-frontend) (React Native 기반 모바일 앱)
+- **Frontend**: [SummaNews-Frontend](https://github.com/seoming430/SNN) (React Native 기반 모바일 앱)
